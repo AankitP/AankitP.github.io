@@ -1,0 +1,3 @@
+making a small robot<br>
+        do tasks, a fishtank that regulates salinity and temperature automatically, and a set of blinds that opens<br>
+        and closes depending on how bright it is outside
