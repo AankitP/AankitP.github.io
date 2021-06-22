@@ -13,4 +13,7 @@ Engineering class
 
         making a set of automatic blinds<br>
                 For my final engineering project, I created a set of automatic blinds that opened and closed<br>
-                based on how bright it was outside, and the time of the day. 
+                based on how bright it was outside, and the time of the day. The materials I used were an Arduino,<br>
+                a DC motor, an H-bridge, a photoresistor, and a small blinds setup that I had created. 
+
+Computer science 
